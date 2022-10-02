@@ -1,0 +1,5 @@
+Animales en peligro de extinción
+Guanaco – Chancho quimilero – Pecarí de collar – Aguará guazú – Tapetí – Carpincho – Vizcacha – Corzuela parda
+
+
+Hemos obtenido informacion de FIREX y el CONAE para recopilar datos acerca de los incendios en EEUU y en Córdoba (donde recidimos). Para cumplir con el objetivo, diseñamos un videojuego online multiplataforma con un sistema de progresos para poder educar a la población acerca de los incendios forestales, en el cual se van a realizar una serie de preguntas a medida que se avanza en el juego, todas con fundamentación gracias a la información recopilada. Todo el desarrollo de la aplicación está alojado en una base de datos y un servidor, ambos servicios totalmente gratuitos, proporcionados por GCP y Firebase.
